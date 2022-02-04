@@ -60,7 +60,7 @@ In addition to increased efficiency, working in formation teams allows for the c
 - Executed an [IBM Service Corps deployment, incubation, field tests](https://developer.ibm.com/callforcode/solutions/prometeo/) in 2020
 - Created new [Pyrrha name and project at LF](https://www.linuxfoundation.org/press-release/the-linux-foundation-prometeo-ibm-and-partners-announce-new-firefighter-safety-open-source-project/) in July 2021
 - The [Prometeo](https://prometeoplatform.com/THOROUGHLY.htm) name continues to be used for the successful startup
-- The Pyrrha project has its own open source organization and web site
+- The [Pyrrha project has its own open source organization](https://github.com/Pyrrha-Platform) and [web site](https://pyrrha-platform.org/)
 
 ### Build Change
 
@@ -68,7 +68,7 @@ In addition to increased efficiency, working in formation teams allows for the c
 - Created a [new project named ISAC-SIMO, based on PD3R](https://developer.ibm.com/callforcode/solutions/build-change/), in 2020
 - Brought [the ISAC-SIMO project and name to the LF](https://linuxfoundation.org/press-release/new-open-source-project-uses-machine-learning-to-inform-quality-assurance-for-construction-in-emerging-nations/) in July 2021
 - The [Build Change](https://buildchange.org/) name was used before and after for the non-profit organization
-- The ISAC-SIMO prject has its own open source organization and web site
+- The [ISAC-SIMO project has its own open source organization](https://github.com/ISAC-SIMO) and [web site](https://isac-simo.net/)
 
 ### Liquid Prep
 
