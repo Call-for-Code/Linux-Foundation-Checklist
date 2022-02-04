@@ -37,7 +37,7 @@ In addition to increased efficiency, working in formation teams allows for the c
 
 ### GitHub and source code updates
 
-- [ ] Add the [Apache 2 LICENSE](http://www.apache.org/licenses/LICENSE-2.0#apply) to your GitHub repository and include the specific copyright header to your source code files using the relevant comment syntax for the programming language. Add the license file as is, then use 2018 and list the names of your team members in your individual source files.
+- [ ] Add the [Apache 2 LICENSE](http://www.apache.org/licenses/LICENSE-2.0#apply) to your GitHub repository and include the specific copyright header to your source code files using the relevant comment syntax for the programming language. Add the license file as is, then use the current year and list the names of your team members in your individual source files.
 - [ ] Look at improving your documentation so that first time visitors clearly see the problem you are solving and how they can understand the solution in your README.md. Also consider enabling alternative language translations.
 - [ ] Look at carefully documenting installation/duplication steps so that new developers can explore the technology on their own systems in order to contribute back fixes. This will also help you identify any potential dependency issues you might have on clean installations.
 - [ ] Add a basic [CONTRIBUTING.md](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md) that describes how others can start to collaborating with you. The Linux Foundation has a few sample files you can use for inspiration. The way you choose to accept fixes is up to you though.
