@@ -52,7 +52,7 @@ In addition to increased efficiency, working in formation teams allows for the c
 - Executed an [IBM Service Corps deployment, incubation, and field tests](https://developer.ibm.com/callforcode/solutions/owl/) in 2019
 - Created new [ClusterDuck Protocol name and project at LF](https://www.linuxfoundation.org/press-release/the-linux-foundation-open-sources-hardware-of-disaster-relief-project-that-won-first-call-for-code-global-challenge-led-by-ibm/) in March 2020
 - The [Project OWL](https://www.project-owl.com/) name continues to be used for the successful startup
-- The ClusterDuck Protocol has its own open source repo and web site
+- The ClusterDuck Protocol has its own [open source repo](https://github.com/Call-for-Code/ClusterDuck-Protocol) and [web site](https://clusterduckprotocol.org/)
 
 ### Prometeo
 
