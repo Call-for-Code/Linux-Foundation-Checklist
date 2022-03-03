@@ -77,6 +77,14 @@ In addition to increased efficiency, working in formation teams allows for the c
 - Transferred [the Liquid Prep trademark to the LF](https://linuxfoundation.org/blog/liquid-prep-intelligent-watering-solution-now-hosted-by-the-linux-foundation-as-a-call-for-code-project/) in March 2021
 - The [Liquid Prep community](https://github.com/Liquid-Prep), not a separate legal entity, manages the project
 
+### Grillo
+
+- Joined the Code and Response community in February 2020
+- Created a [new project named OpenEEW](https://developer.ibm.com/tutorials/build-an-openeew-earthquake-early-warning-node-red-dashboard/), in 2020
+- Brought [the OpenEEW project and name to the LF](https://www.linuxfoundation.org/press-release/the-linux-foundation-grillo-and-ibm-announce-new-earthquake-early-warning-open-source-project/) in August 2020
+- The [Grillo](https://grillo.io/) name was used before and after for the startup
+- The [OpenEEW project has its own open source organization](https://github.com/openeew) and [web site](https://openeew.com/)
+
 ## Resources
 
 - [Call for Code and the Linux Foundation](Bringing-Call-for-Code-Projects-to-The-Linux-Foundation-Briefing.pdf)
