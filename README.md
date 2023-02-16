@@ -85,6 +85,13 @@ In addition to increased efficiency, working in formation teams allows for the c
 - The [Grillo](https://grillo.io/) name was used before and after for the startup
 - The [OpenEEW project has its own open source organization](https://github.com/openeew) and [web site](https://openeew.com/)
 
+### Agrolly
+
+- Won the IBMer Call for Code Global Challenge in October 2020
+- Created a new project named OpenTempus, in 2022
+- Brought [the OpenTempus project and name to the LF](https://www.linuxfoundation.org/blog/two-new-agricultural-technology-projects-join-the-call-for-code-community-at-the-linux-foundation) in December 2022
+- The [OpenTempus project has its own open source organization](https://github.com/OpenTempus) and [web site](https://opentempus.com/)
+
 ## Resources
 
 - [Call for Code and the Linux Foundation](Bringing-Call-for-Code-Projects-to-The-Linux-Foundation-Briefing.pdf)
