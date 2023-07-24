@@ -10,6 +10,7 @@ This repository contains details on what is needed for [Call for Code](https://d
 - The project legal structure provides a way for many participants to improve the underlying technology
 - The LF has many avenues to access developers, funding, mentorship, events, and marketing
 - Successful projects depend on an ecosystem to develop solutions that the market will adopt. Adoption drives sustainability.
+- [Learn more in this detailed presentation](Why-Host-a-Project-at-the-Linux-Foundation.pdf).
 
   ![The innovation cycle at the Linux Foundation](LF-Innovation-Cycle.png)
 
